@@ -1,4 +1,4 @@
-# Cardio-Analysis
+# Cardio-Analysis-in-Tableau
 
 link: https://public.tableau.com/app/profile/roman.larkin/viz/Cardio_17561297486960/Patients?publish=yes
 
